@@ -3,39 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>/about/about/</loc>
     <lastmod>2016-05-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/research/</loc>
+    <loc>/about/research/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/about/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/about/post/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2020/08/01/welcome-to-my-website/</loc>
+    <loc>/about/2020/08/01/welcome-to-my-website/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/about/categories/</loc>
   </url>
   
   <url>
-    <loc>/hobbies/</loc>
+    <loc>/about/hobbies/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/about/tags/</loc>
   </url>
   
 </urlset>
