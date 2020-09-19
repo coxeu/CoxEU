@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600489486366.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BB24DF91",
+    "lastKnownWriteTime" : 1600489401,
+    "last_content_update" : 1600489401,
+    "path" : "/Volumes/New Volume/untitled folder/ Website/HeyEMC2/public/netlify.toml",
+    "project_path" : "public/netlify.toml",
+    "properties" : {
+        "cursorPosition" : "15,53",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
